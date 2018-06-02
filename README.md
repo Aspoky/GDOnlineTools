@@ -23,6 +23,6 @@ Only unzip the downloaded file and upload to your directory, or you can use it w
 </pre>
 
 # License
-You can freely download it, but you must give credits to me if you share this.
+[Read the license](/LICENSE)
 
 
