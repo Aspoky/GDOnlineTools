@@ -15,7 +15,7 @@ See data recieved from [Boomlings](http://www.boomlings.com).
 | 1.0 | [See the changes](/versions/1.0) |
 
 # Basic:
-· This works with an iframe execution, that executed the requests and you can stay and the same page and see the response of Boomlings.
+&#8226; This works with an iframe execution, that executed the requests and you can stay and the same page and see the response of Boomlings.
 
 ### Installation
 
