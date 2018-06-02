@@ -5,4 +5,4 @@
 <h1>Get recent levels</h1>
 <hr>
 <h4>Click submit</h4>
-<iframe src='do.php'></iframe>
+<iframe src='/src/do_rc.php'></iframe>
