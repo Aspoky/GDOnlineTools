@@ -21,7 +21,7 @@ See data recieved from [Boomlings](http://www.boomlings.com).
 
 ### Installation
 
-Only unzip the downloaded file and upload to your directory, or you can use it without any website but you must have internet conection.
+Click on [![N|Solid](https://i.imgur.com/REtKl3w.png)] and upload to website or use without connection.
 <pre>
 *Use WinRar or something related...*
 </pre>
