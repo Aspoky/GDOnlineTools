@@ -1,0 +1,4 @@
+====
+1.2
+====
+Added top creators tool, view more than the 100 top creators!
