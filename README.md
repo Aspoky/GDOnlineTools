@@ -12,9 +12,10 @@ See data recieved from [Boomlings](http://www.boomlings.com).
 # Version:
 | Version | About |
 | ------ | ------ |
-| 1.0 | [See the changes](/versions/1.0) |
+| 1.1 | [See the changes](/versions/1.1.txt) |
+| 1.0 | [See the changes](/versions/1.0.txt) |
 
-# Basic:
+### About the tool:
 &#8226; This works with an iframe execution, that executed the requests and you can stay and the same page and see the response of Boomlings.
 
 ### Installation

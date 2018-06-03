@@ -1,0 +1,4 @@
+====
+1.1
+====
+Added top player tool to the top, and you can see more than 100 players!
