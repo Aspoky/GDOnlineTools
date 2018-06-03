@@ -12,6 +12,7 @@ See data recieved from [Boomlings](http://www.boomlings.com).
 # Version:
 | Version | About |
 | ------ | ------ |
+| 1.2 | [See the changes](/versions/1.2.txt) |
 | 1.1 | [See the changes](/versions/1.1.txt) |
 | 1.0 | [See the changes](/versions/1.0.txt) |
 
