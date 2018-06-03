@@ -21,7 +21,7 @@ See data recieved from [Boomlings](http://www.boomlings.com).
 
 ### Installation
 
-Click on [![N|Solid](https://i.imgur.com/REtKl3w.png)] and upload to website or use without connection.
+Click on ![N|Solid](https://i.imgur.com/REtKl3w.png) and upload to website or use without connection.
 <pre>
 *Use WinRar or something related...*
 </pre>
